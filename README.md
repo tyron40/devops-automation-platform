@@ -1,3 +1,14 @@
+
+![screencapture-creative-truffle-621932-netlify-app-2025-03-27-17_08_20](https://github.com/user-attachments/assets/5f4d2dca-f840-404f-9fea-9e4788edc5f6)
+![screencapture-creative-truffle-621932-netlify-app-pipelines-2025-03-27-17_08_32](https://github.com/user-attachments/assets/11c0d720-cca3-4992-a3cf-b83ba3953618)
+![screencapture-creative-truffle-621932-netlify-app-infrastructure-2025-03-27-17_08_45](https://github.com/user-attachments/assets/1c11d50a-5bb4-453b-9ab4-04d67c0c5871)
+![screencapture-creative-truffle-621932-netlify-app-monitoring-2025-03-27-17_08_56](https://github.com/user-attachments/assets/615a81c4-242c-4dd2-b807-45a9cd294c2c)
+![screencapture-creative-truffle-621932-netlify-app-alerts-2025-03-27-17_09_06](https://github.com/user-attachments/assets/f58d70b8-45ee-4263-bd48-de31f5869e1e)
+![screencapture-creative-truffle-621932-netlify-app-terminal-2025-03-27-17_09_16](https://github.com/user-attachments/assets/d3978bfa-81fa-4c9a-bf20-724253bd5199)
+![screencapture-creative-truffle-621932-netlify-app-settings-2025-03-27-17_09_32](https://github.com/user-attachments/assets/51fdb9c1-2905-40dc-827f-e8905d623621)
+
+
+
 # DevOps Automation Platform
 
 A modern, full-featured DevOps automation platform that integrates CI/CD pipeline management, infrastructure as code, and monitoring capabilities into a unified dashboard.
